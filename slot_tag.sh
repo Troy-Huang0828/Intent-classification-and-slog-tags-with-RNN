@@ -1,0 +1,1 @@
+python slot_train.py  --test="${1}"  --csv="${2}"

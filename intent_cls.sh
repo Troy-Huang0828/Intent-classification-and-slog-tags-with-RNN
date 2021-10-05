@@ -1,0 +1,1 @@
+python train_intent.py  --test="${1}"  --csv="${2}"
